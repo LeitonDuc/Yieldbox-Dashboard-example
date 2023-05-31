@@ -257,7 +257,8 @@ def lambda_handler(event, context):
 
 <h3> Informe de Power BI </h3>
 
-![page](https://github.com/LeitonDuc/Yieldbox-Dashboard-example/assets/94261037/ee381d23-dacb-472f-ae86-69e2f63b7287)
+![informe](https://github.com/LeitonDuc/Yieldbox-Dashboard-example/assets/94261037/73f9613e-8dd2-4f67-8062-01ac7510a9e8)
+
 
 
 
