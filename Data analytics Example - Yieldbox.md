@@ -252,11 +252,13 @@ def lambda_handler(event, context):
 
 <h3> Arquitectura final </h3>
 
-![architecture yield](https://github.com/LeitonDuc/Yieldbox-Dashboard-example/assets/94261037/0cb5f231-77f5-4ffa-806e-0e3a991178b4)
+![architecture yield](https://github.com/LeitonDuc/Yieldbox-Dashboard-example/assets/94261037/c80d64b7-fdc6-42c6-bca3-433e7e89d2f8)
+
 
 <h3> Informe de Power BI </h3>
 
-![page](https://github.com/LeitonDuc/Yieldbox-Dashboard-example/assets/94261037/2deec5a6-9636-4a14-8e09-b12eca440983)
+![page](https://github.com/LeitonDuc/Yieldbox-Dashboard-example/assets/94261037/ee381d23-dacb-472f-ae86-69e2f63b7287)
+
 
 
 
